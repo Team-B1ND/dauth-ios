@@ -1,3 +1,3 @@
 # dauth-ios
 
-A description of this package.
+DAuth for iOS
